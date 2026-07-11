@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="42" viewBox="0 0 180 42">
+  <rect width="42" height="42" rx="10" fill="#4F46E5"></rect>
+  <text x="21" y="28" text-anchor="middle" font-size="18" fill="white" font-family="Arial" font-weight="bold">A</text>
+  <text x="56" y="27" font-size="20" fill="#111827" font-family="Arial" font-weight="700">Acme Studio</text>
+</svg>
